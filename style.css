@@ -1,0 +1,175 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'PT Sans', sans-serif;
+}
+ul{text-decoration: none;
+    list-style-type: none;
+}
+.home{
+    width: 1320px;
+    height: 600px;
+    background-image: url(/Running/PhAss/B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    text-align: center;
+    position: relative;
+    left: 260px;
+    top: 20px;
+}
+.homeContent h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    color: rgb(224, 240, 255);
+    padding-top: 200px;
+}
+.homeContent h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 72px;
+    color: rgb(230, 243, 255);
+}
+.deals{
+    text-align: center;
+    height: 900px;
+}
+.deals h1{
+   padding-top: 150PX; 
+   font-size: 66px;
+   font-weight: 900;
+   color: brown;
+}
+.deals h5{ 
+    font-size: 24px;
+    color: brown;
+}
+.deals h3{ 
+    font-size: 48px;
+    padding-bottom: 20px;
+}
+.party{
+    width: 1320px;
+    height: 600px;
+    background-image: url(./resources/Vectorrr.png);
+    position: relative;
+    left: 260px;
+    color: aliceblue;
+}
+.partycontent{
+    
+    padding-top: 100px;
+    padding-left: 100px;
+    width: 50%;
+}
+.partycontent h2{
+    font-size: 66px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.partycontent p{
+    padding: 20px 0px;
+}
+.partycontent button{
+    background-color: rgba(0, 0, 0, 0);
+    border: 0px;
+    color: aliceblue;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 40px;
+}
+.partytime{
+    width: 1320px;
+    height: 350px;
+    background-image: linear-gradient(rgb(255, 181, 181), rgb(255, 255, 255));
+    position: relative;
+    left: 260px;
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    font-weight: 500;
+    text-align: center;
+    font-size: 32px;
+}
+.partytime button{
+    background-color: brown;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: 400;
+    border: 0px;
+    padding: 5px 25px;
+    border-radius: 15px;
+}
+.comingsoon{
+    width: 1320px;
+    height: 600px;
+    position: relative;
+    left: 260px;
+    display: flex;
+}
+.comingsoon ul{display: flex; 
+    padding-left: 50px;
+    padding-top: 100px;
+}
+.soonitem{
+    width: 27%;
+}
+.soonitem1{
+    text-align: center;
+    width: 45%;
+}
+.soonitem h3{
+    font-size: 32px;
+    font-weight: bold ;
+}
+.holiday{
+    width: 1320px;
+    position: relative;
+    left: 260px;
+    text-align: center;
+}
+.gift{
+    width: 1320px;
+    position: relative;
+    left: 260px;
+}
+.gift ul li{
+    padding-left: 20px;
+
+}
+
+#email_input{
+    height: 40px;
+    width:300px;
+    color: #333;
+    font-size: 20px;
+    text-align: left;
+    outline: none; 
+    padding-left: 30px;
+    border-style: none; 
+    border-radius: 20px 0px  0px 20px;
+}
+.subcribe_button{
+    height: 40px;
+    width:200px;
+    background-color: #f13636;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: left;
+    outline: none; 
+    padding-left: 20px;
+    border-style: none; 
+    border-radius: 0px 20px  20px 0px;
+}
+.subcribe_button:hover {
+    background: #d95b34;
+}
+#update{
+    background-color: #f8e3e3;
+    width: 1320px;
+    margin: auto ;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+    padding: 50px;
+}
+.fcont p{
+    width: 50%;
+    display: inline-block;
+}
